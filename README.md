@@ -20,6 +20,9 @@ The following EXTRA features are implemented: None
 
 ## Project Demo
 
+<img src="http://g.recordit.co/d6l6Qt4Zp7.gif" title='Video Demo' width='' alt='Video Demo' />
+
+
 
 
 ## Setup
