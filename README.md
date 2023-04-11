@@ -6,17 +6,7 @@ This project is a forum website, where users can make posts and leave comments o
 
 The user is able to perform all four CRUD operations. The user can create a new post, read previous posts, update a post, and delete a post.
 
-## Application Features
 
-The following REQUIRED features are completed:
-
-- []
-
-The following STRETCH features are implemented:
-
-- [ ] 
-
-The following EXTRA features are implemented: None
 
 ## Project Demo
 
