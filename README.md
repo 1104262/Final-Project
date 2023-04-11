@@ -37,7 +37,7 @@ To install the dependencies, run:
 npm install
 ```
 
-### Run TravelHub
+### Run HistoryHub
 
 In the repo directory, run the following in your terminal:
 
@@ -51,7 +51,7 @@ Visit the web application in the browser
 http://localhost:3000/
 ```
 
-### Deploy TravelHub
+### Deploy HistoryHub
 
 To deploy this application on Netlify, run the following in the repo directory:
 
