@@ -9,9 +9,9 @@ The user is able to perform all four CRUD operations. The user can create a new 
 
 
 ## Project Demo
-🌐 [See the project deployed here!]()
+🌐 [See the project deployed here!](https://candid-maamoul-11624d.netlify.app)
 
-https://candid-maamoul-11624d.netlify.app
+
 
 
 
