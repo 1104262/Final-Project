@@ -1,4 +1,4 @@
-# Travel_Hub
+# History_Hub
 
 ## Overview
 
@@ -20,9 +20,7 @@ The following EXTRA features are implemented: None
 
 ## Project Demo
 
-🌐 [See the project deployed here!]()
 
-![usage of crewmates project in gif form](readme_demo.gif)
 
 ## Setup
 
